@@ -1,4 +1,4 @@
-node("Node 1") {
+node {
     stage("Jenkinsfile for QA") {
         echo("Jenkinsfile for QA")
     }
